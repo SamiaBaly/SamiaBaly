@@ -6,7 +6,26 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React.js+%7C+Next.js+Developer;JavaScript+%7C+TypeScript;Node.js+%7C+Express.js;MongoDB+Developer;REST+API+Developer;Building+Scalable+Web+Applications;Open+to+Work" alt="Typing SVG" />
 </p>
 
+## 📫 Connect With Me
 
+<p align="center">
+  <a href="mailto:samiabaly116@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/SamiaBaly/SamiaBaly">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samia-baly">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+  </a>
+  <a href="https://portfolio2-alpha-ochre.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>📧 Email:</strong> samiabaly116@gmail.com
+</p>
 ## 🚀 About Me
 
 Hi! I'm **Samia Baly**, a passionate **Full Stack Web Developer** dedicated to building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into real-world digital solutions through clean code, intuitive user interfaces, and reliable backend development.
@@ -53,11 +72,6 @@ Hi! I'm **Samia Baly**, a passionate **Full Stack Web Developer** dedicated to b
   <img src="https://streak-stats.demolab.com?user=SamiaBaly&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamiaBaly&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
 
 ## 📈 Contribution Graph
 
