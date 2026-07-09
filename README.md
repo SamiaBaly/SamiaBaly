@@ -84,55 +84,90 @@ Hi! I'm **Samia Baly**, a passionate **Full Stack Web Developer** dedicated to b
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚖️ Lawyer Hiring Platform
-A full-stack platform that connects clients with lawyers through secure authentication, lawyer profiles, hiring requests, and role-based dashboards.
+<h3 align="center">⚖️ Lawyer Hiring Platform</h3>
 
-**Tech Stack:** React.js • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS
+<p align="center">
+  <img src="./screenshots/lawyer.jpg" width="100%" alt="Lawyer Hiring Platform">
+</p>
 
-🔗 **Live Demo:** https://your-live-link.vercel.app  
-📂 **Repository:** https://github.com/SamiaBaly/lawyer-hiring-platform
+A full-stack legal service platform that enables clients to hire lawyers, manage hiring requests, and communicate through secure role-based authentication and personalized dashboards.
+
+**🛠️ Tech Stack:**  
+Next.js • React.js • Node.js • Express.js • MongoDB • Better Auth • Tailwind CSS
+
+<p align="center">
+  <a href="https://legalease-client-xi.vercel.app/">🌐 Live Demo</a> •
+  <a href="https://github.com/SamiaBaly/legalEase-client">📂 Repository</a>
+</p>
 
 </td>
 
-<td width="50%">
 
-### 📚 Digital Library
-A modern online library system featuring book browsing, category filtering, search, authentication, and responsive UI.
+<td width="50%" valign="top">
 
-**Tech Stack:** React.js • Next.js • MongoDB • Tailwind CSS
+<h3 align="center">📚 Digital Library Management</h3>
 
-🔗 **Live Demo:** https://your-library.vercel.app  
-📂 **Repository:** https://github.com/SamiaBaly/digital-library
+<p align="center">
+  <img src="./screenshots/book.jpg" width="100%" alt="Digital Library">
+</p>
+
+A modern online library system where users can browse books, filter categories, search titles, and enjoy a clean responsive reading experience.
+
+**🛠️ Tech Stack:**  
+Next.js • React.js • MongoDB • Tailwind CSS • HeroUI
+
+<p align="center">
+  <a href="https://book-library-a8-nof9.vercel.app/">🌐 Live Demo</a> •
+  <a href="https://github.com/SamiaBaly/book-library-A8">📂 Repository</a>
+</p>
 
 </td>
 
 </tr>
 
+
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤝 KeenKeeper
-A friendship management application that helps users track meetups, conversations, and important memories with an interactive dashboard.
+<h3 align="center">🤝 KeenKeeper</h3>
 
-**Tech Stack:** React.js • JavaScript • Tailwind CSS • Firebase
+<p align="center">
+  <img src="./screenshots/keenkeper.jpg" width="100%" alt="KeenKeeper">
+</p>
 
-🔗 **Live Demo:** https://your-keenkeeper.vercel.app  
-📂 **Repository:** https://github.com/SamiaBaly/keenkeeper
+A friendship management application that helps users organize meetups, preserve memories, and strengthen relationships through an interactive dashboard.
+
+**🛠️ Tech Stack:**  
+React.js • JavaScript • Firebase • Tailwind CSS
+
+<p align="center">
+  <a href="https://a7-kinkeeper-project.vercel.app/">🌐 Live Demo</a> •
+  <a href="https://github.com/SamiaBaly/a7-kinkeeper-project">📂 Repository</a>
+</p>
 
 </td>
 
-<td width="50%">
 
-### 🩺 Doctor Appointment System
-A healthcare platform that allows users to browse doctors, book appointments, and manage schedules with an intuitive interface.
+<td width="50%" valign="top">
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+<h3 align="center">🩺 Doctor Appointment System</h3>
 
-🔗 **Live Demo:** https://your-doctor-app.vercel.app  
-📂 **Repository:** https://github.com/SamiaBaly/doctor-appointment
+<p align="center">
+  <img src="./screenshots/doctor.jpg" width="100%" alt="Doctor Appointment">
+</p>
+
+A healthcare appointment platform where patients can browse doctors, book appointments, and manage schedules through an intuitive interface.
+
+**🛠️ Tech Stack:**  
+React.js • Node.js • Express.js • MongoDB • Tailwind CSS
+
+<p align="center">
+  <a href="https://doctor-appointment-client-sigma.vercel.app/">🌐 Live Demo</a> •
+  <a href="https://github.com/SamiaBaly/doctor-appointment-client">📂 Repository</a>
+</p>
 
 </td>
 
