@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm Samia Baly</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;React.js+Developer;Next.js+Developer;JavaScript+Developer;Tailwind+CSS+Developer;Node.js+%26+Express.js;MongoDB+Developer;Open+to+Collaboration+🤝" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React.js+Developer;Next.js+Developer;JavaScript+Developer;Tailwind+CSS+Developer;Open+to+Collaboration"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
