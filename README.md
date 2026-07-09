@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/61c646c7-bba8-453d-a647-f9967309f478" />
+![Samia Baly Banner](./samia_banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Samia Baly</h1>
