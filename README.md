@@ -179,10 +179,13 @@ React.js • Node.js • Express.js • MongoDB • Tailwind CSS
 
 A responsive portfolio showcasing my projects, technical skills, and professional journey as a Full Stack Web Developer.
 
-**Tech Stack:** Next.js • React.js • Tailwind CSS
+**🛠️ Tech Stack:**  
+Next.js • React.js • Tailwind CSS
 
-🔗 **Live Demo:** https://your-portfolio.vercel.app  
-📂 **Repository:** https://github.com/SamiaBaly/portfolio
+<p align="center">
+  <a href="https://portfolio2-alpha-ochre.vercel.app/">🌐 Live Demo</a> •
+  
+</p>
 
 ## 🎯 Current Goals
 
