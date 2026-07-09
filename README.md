@@ -3,22 +3,7 @@
 <h1 align="center">Hi 👋, I'm Samia Baly</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React.js+Developer;Next.js+Developer;JavaScript+Developer;Tailwind+CSS+Developer;Open+to+Collaboration"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/SamiaBaly">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/samiabaly/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/samiabaly">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React.js+%7C+Next.js+Developer;JavaScript+%7C+TypeScript;Node.js+%7C+Express.js;MongoDB+Developer;REST+API+Developer;Building+Scalable+Web+Applications;Open+to+Work" alt="Typing SVG" />
 </p>
 
 ---
