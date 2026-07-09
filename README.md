@@ -1,8 +1,10 @@
 ![Samia Baly Banner](./samia_banner.png)
 
-
 <h1 align="center">Hi 👋, I'm Samia Baly</h1>
-<h3 align="center">Full Stack Web Developer | React.js | JavaScript | Tailwind CSS | Open to Collaboration</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;React.js+Developer;Next.js+Developer;JavaScript+Developer;Tailwind+CSS+Developer;Node.js+%26+Express.js;MongoDB+Developer;Open+to+Collaboration+🤝" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/SamiaBaly">
@@ -12,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/samiabaly">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
